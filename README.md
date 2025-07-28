@@ -18,12 +18,6 @@ Tested on Mac OS X 10.7.3 running system Python 2.7.1 and Pygame installed via
 the "Lion apple supplied python" mpkg.  Please let me know if you have issues
 running this on other versions of Python and/or Pygame.
 
-## Author
-
-Brian Hammond (brian@fictorial.com)
-
-Copyright © 2012 Fictorial LLC.
-
 ## Other
 
 See the `simpler` branch for a much simpler version.
